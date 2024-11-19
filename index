@@ -1,0 +1,49 @@
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+  <meta charset="UTF-8">  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+  <title>CLOCKOUT 2.0</title>  
+  <link rel="stylesheet" href="styles.css">  
+</head>  
+<body>  
+      <div class="container">  
+        <header>  
+        <h1>CLOCKOUT 2.0</h1>  
+        <h2>Crossword + Wordle</h2>  
+        </header>    
+          <section class="wordle-hex">  
+            <img src="WhatsApp Image 2024-09-26 at 12.29.24 AM (3).png">
+          <h3>Wordle and Hex Code</h3>  
+          <p class="instructions1" >  
+             Find the number of vowels in each word and note their value in place of Word 1, Word 2, etc.    
+             <!-- instructions here -->    
+          </p>  
+          <div class="words">
+            <div class="word">Word 1</div>
+            <div class="word">Word 2</div>
+            <div class="word">Word 3</div>
+            <div class="word">Word 4</div>
+            <div class="word">Word 5</div>
+            <div class="word">Word 6</div>
+          </div>
+          <div class="word-boxes">  
+          <div class="word-box"><a href="https://mywordle.strivemath.com/?word=lgpfs">W</a></div>  
+          <div class="word-box"><a href="https://mywordle.strivemath.com/?word=yfpse">O</a></div>  
+          <div class="word-box"><a href="https://mywordle.strivemath.com/?word=wuvqe">R</a></div>  
+          <div class="word-box"><a href="https://mywordle.strivemath.com/?word=zffqp">D</a></div>  
+          <div class="word-box"><a href="https://mywordle.strivemath.com/?word=owxdt">L</a></div>  
+          <div class="word-box"><a href="https://mywordle.strivemath.com/?word=hcxln">E</a></div>  
+         </div>    
+          <p class="instructions2">  
+            Find the number of vowels in each word and note their value in place of Word 1, Word 2, etc.  
+            <!-- instructions here -->  
+          </p>  
+          <form>  
+          <input type="text" placeholder="Enter your answer">  
+          <button type="submit">SUBMIT</button>  
+          </form>  
+          </section>     
+    </div>  
+</body>  
+</html>
