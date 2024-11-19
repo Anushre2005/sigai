@@ -21,15 +21,15 @@ h2{
     margin-top: 0%; 
     margin-bottom: 0%;
   }
-  h3{position:absolute; top:230px; right:1050px;
+  h3{position:absolute; top:230px; right:1000px;
     margin-top: 0%;
   }
   .instructions1{
-    position:absolute; top:270px; right:550px;
+    position:absolute; top:270px; right:500px;
 width: 800px;
   }
   .instructions2{
-    position:absolute; top:590px; right:550px;
+    position:absolute; top:590px; right:500px;
 width: 800px;
   }
   img{
